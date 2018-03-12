@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Administrator\Desktop\MVPDemo-master\MVPDemo.iml" filepath="C:\Users\Administrator\Desktop\MVPDemo-master\MVPDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVPDemo-master.iml" filepath="$PROJECT_DIR$/MVPDemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhttp/myhttp.iml" filepath="$PROJECT_DIR$/myhttp/myhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payinterface/payinterface.iml" filepath="$PROJECT_DIR$/payinterface/payinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taopiaopiao/taopiaopiao.iml" filepath="$PROJECT_DIR$/taopiaopiao/taopiaopiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wavetest/wavetest.iml" filepath="$PROJECT_DIR$/wavetest/wavetest.iml" />
+    </modules>
+  </component>
+</project>
